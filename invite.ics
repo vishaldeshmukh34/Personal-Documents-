@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Bagath Singh M:mailto:BM00457762@TechMahindra.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nilesh Dev
+ idas Latke:mailto:NileshDevidas.Latke@TechMahindra.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Deepthi _2
+ :mailto:DX001046822@TechMahindra.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deepanshuk
+ ashiwale111@gmail.com:mailto:deepanshukashiwale111@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vishaldesh
+ mukh7972@gmail.com:mailto:vishaldeshmukh7972@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nadeswapna
+ li22@gmail.com:mailto:nadeswapnali22@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nipungesak
+ shi9890@gmail.com:mailto:nipungesakshi9890@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poojachand
+ ane33@gmail.com:mailto:poojachandane33@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=harshuvpat
+ il01@gmail.com:mailto:harshuvpatil01@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=satweashis
+ h123@gmail.com:mailto:satweashish123@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nikamprati
+ ksha368@gmail.com:mailto:nikampratiksha368@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nupurdidhe
+ @gmail.com:mailto:nupurdidhe@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aansh6435@
+ gmail.com:mailto:aansh6435@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Harshal Um
+ ap:mailto:harshalu@TechMahindra.com
+DESCRIPTION;LANGUAGE=en-US:Dear Candidates\,\n\nThis is with reference to y
+ our Tech Mahindra Candidature\, we have scheduled your Tech Mahindra Techn
+ ical Interview on 23rd July 2026.\n\nKindly note this Interview will be co
+ nducted online through MS Teams Platform\, hence please make sure you have
+  Desktop / Laptop with Webcam and Microphone enabled in it. Internet Conne
+ ctivity should be Best.\n\nPlease go through Time slot mentioned below and
+  join 5min early as per allotted timeslot (or if asked to join earlier) an
+ d keep any one govt id proof.\n\n_________________________________________
+ _______________________________________\nMicrosoft Teams meeting\nJoin: ht
+ tps://teams.microsoft.com/meet/437485502365157?p=rW4Bq6tKFNkSFcfGlN\nMeeti
+ ng ID: 437 485 502 365 157\nPasscode: Ku7Jz2wz\n__________________________
+ ______\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System re
+ ference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGE2MGU1MDU
+ tZjQyZi00NGY0LThlMGQtZGM5N2EzNWUyZDI0%40thread.v2/0?context=%7b%22Tid%22%3
+ a%22edf442f5-b994-4c86-a131-b42b03a16c95%22%2c%22Oid%22%3a%228388eacb-1089
+ -4be4-a811-5d3debf7e4d9%22%7d>\nFor organizers: Meeting options<https://te
+ ams.microsoft.com/meetingOptions/?organizerId=8388eacb-1089-4be4-a811-5d3d
+ ebf7e4d9&tenantId=edf442f5-b994-4c86-a131-b42b03a16c95&threadId=19_meeting
+ _NGE2MGU1MDUtZjQyZi00NGY0LThlMGQtZGM5N2EzNWUyZDI0@thread.v2&messageId=0&la
+ nguage=en-US>\n___________________________________________________________
+ _____________________\n\nSr. No\nName of the Candidate\nEmail ID\nTech Int
+ erview Date\nTiming\n1\nDeepanshu Kashiwale\ndeepanshukashiwale111@gmail.c
+ om<mailto:deepanshukashiwale111@gmail.com>\n23-Jul-26\n2:00 PM\n2\nVishal 
+ Deshmukh\nvishaldeshmukh7972@gmail.com<mailto:vishaldeshmukh7972@gmail.com
+ >\n23-Jul-26\n2:20 PM\n3\nNade Swapnali Dhanajay\nnadeswapnali22@gmail.com
+ <mailto:nadeswapnali22@gmail.com>\n23-Jul-26\n2:40 PM\n4\nSakshi Babasaheb
+  Nipunge\nnipungesakshi9890@gmail.com<mailto:nipungesakshi9890@gmail.com>\
+ n23-Jul-26\n3:00 PM\n5\nPooja Ganesh Chandane\npoojachandane33@gmail.com<m
+ ailto:poojachandane33@gmail.com>\n23-Jul-26\n3:20 PM\n6\nHarshada Patil\nh
+ arshuvpatil01@gmail.com<mailto:harshuvpatil01@gmail.com>\n23-Jul-26\n3:40 
+ PM\n7\nAshish Chandrabhan Satwe\nsatweashish123@gmail.com<mailto:satweashi
+ sh123@gmail.com>\n23-Jul-26\n4:00 PM\n8\nPratiksha Nikam\nnikampratiksha36
+ 8@gmail.com<mailto:nikampratiksha368@gmail.com>\n23-Jul-26\n4:20 PM\n9\nNu
+ pur Raghuvir Didhe\nnupurdidhe@gmail.com<mailto:nupurdidhe@gmail.com>\n23-
+ Jul-26\n4:40 PM\n10\nAnsh Sharma\naansh6435@gmail.com<mailto:aansh6435@gma
+ il.com>\n23-Jul-26\n5:00 PM\n\n\n*No Changes in Date or timeslot will be a
+ ccepted.\n\nIn case we are done conducting slot interview early\, we may a
+ sk you to join soon. In that case we give a call or drop a mail for it. So
+  be ready and alert all the time.\n\nRegards\,\nBagath Singh M\n\n========
+ ==========================================================================
+ ========================================== Disclaimer: This message and th
+ e information contained herein is proprietary and confidential and subject
+  to the Tech Mahindra policy statement\, you may review the policy at http
+ ://www.techmahindra.com/Disclaimer.html externally http://tim.techmahindra
+ .com/tim/disclaimer.html internally within TechMahindra. =================
+ ==========================================================================
+ =================================\n
+RRULE:FREQ=WEEKLY;UNTIL=20260723T083000Z;INTERVAL=1;BYDAY=TH;WKST=SU
+UID:040000008200E00074C5B7101A82E00800000000E0F3C0FFEA19DD01000000000000000
+ 010000000A8C18A4BBCF05A448A121EEAFD60AEA9
+SUMMARY;LANGUAGE=en-US:Tech Mahindra_ Technical Interview_ 23rd July 2026
+DTSTART;TZID=India Standard Time:20260723T140000
+DTEND;TZID=India Standard Time:20260723T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260722T093430Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:689338346
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NGE2MGU1MDUtZjQyZi00NGY0LThlMGQtZGM5N2EzNWUyZDI0%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22edf442f5-b994-4c86-a131-b42b03a16c95%22%2c%22O
+ id%22%3a%228388eacb-1089-4be4-a811-5d3debf7e4d9%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api-fd.scheduler.teams.micro
+ soft.com/teams/edf442f5-b994-4c86-a131-b42b03a16c95/8388eacb-1089-4be4-a81
+ 1-5d3debf7e4d9/19_meeting_NGE2MGU1MDUtZjQyZi00NGY0LThlMGQtZGM5N2EzNWUyZDI0
+ @thread.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NGE2MGU1MDUtZjQyZi00NGY
+ 0LThlMGQtZGM5N2EzNWUyZDI0@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
